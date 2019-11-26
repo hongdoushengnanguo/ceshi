@@ -1,6 +1,6 @@
 import javax.print.DocFlavor;
 
-public class text {
+public class tert {
 
     private String name;
     private String sex;
